@@ -28,7 +28,7 @@ dependencies = [
 
 [[package]]
 name = "rust_keien"
-version = "0.1.0"
+version = "0.2.0"
 dependencies = [
  "sort_rust",
 ]
