@@ -1,0 +1,1 @@
+/Users/wangenkai/Documents/tea/rust-course/rust_keien/target/package/rust_keien-0.1.0/target/debug/rust_keien: /Users/wangenkai/Documents/tea/rust-course/rust_keien/target/package/rust_keien-0.1.0/src/main.rs
